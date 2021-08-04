@@ -18,6 +18,7 @@ public class Main {
 		in.close();
 		fileIn.close();
 		
+		//SimpleDateFormat = new SimpleDateFormat();
 		System.out.println("Read back Objects from Serialization File: ");
 		
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++");
