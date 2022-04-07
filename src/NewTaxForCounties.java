@@ -5,6 +5,7 @@ import java.io.Serializable;
 public class NewTaxForCounties implements Serializable {
 	
 	//Just test this line only
+	//Second line from GitHub
 	String countyName;
 	String cityName;
 	String secretPassword;
