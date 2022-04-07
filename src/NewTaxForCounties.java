@@ -4,7 +4,7 @@ import java.io.Serializable;
 @SuppressWarnings("serial")
 public class NewTaxForCounties implements Serializable {
 	
-	
+	//Just test this line only
 	String countyName;
 	String cityName;
 	String secretPassword;
